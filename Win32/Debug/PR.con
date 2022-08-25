@@ -1,0 +1,17 @@
+Provider=SQLNCLI11.1;
+Integrated Security=SSPI;
+Persist Security Info=False;
+User ID="";
+Initial Catalog=PR;
+Data Source=localhost;
+Use Procedure for Prepare=1;
+Auto Translate=True;
+Packet Size=4096;
+Workstation ID=NOTEBOOKROGERIO;
+Initial File Name="";
+Use Encryption for Data=False;
+Tag with column collation when possible=False;
+MARS Connection=False;
+DataTypeCompatibility=0;
+Trust Server Certificate=False;
+Application Intent=READWRITE;
